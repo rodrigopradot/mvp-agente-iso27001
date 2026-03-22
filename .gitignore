@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+data/
+__pycache__/
+*.pyc
+node_modules/
+frontend/dist/
+
+# Claude Code
+.claude/
+CLAUDE.md
+tasks/
+
+# ISO/IEC documents (copyright — users must supply their own)
+ingestion/sources/*.pdf
+ingestion/sources/*.PDF
