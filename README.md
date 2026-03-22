@@ -4,6 +4,8 @@ An AI-powered knowledge base and chat agent specialized in ISO 27001:2022 (Infor
 
 Built with Retrieval-Augmented Generation (RAG): your documents are chunked, embedded locally, and stored in a vector database — no data leaves your infrastructure except the query sent to the Groq LLM API.
 
+Use this MVP as an example to build any knowledge RAG system to work with your data locally
+
 ---
 
 ## Features
